@@ -9,7 +9,7 @@
 }
 
 body {
-    background-image: url(assets/fundoPagina.png);
+    background-image: url(./assets/fundoPagina.png);
     background-size: cover;
 }
 
